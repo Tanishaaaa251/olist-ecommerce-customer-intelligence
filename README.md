@@ -48,14 +48,14 @@ Dashboard screenshots are available in the `04_PowerBI` folder.
 Olist_AI_Project/
 │
 ├── README.md
-├── Step1_Cleaned_Data/
+├── Step1_Cleaned_Data
 │   └── Consolidated cleaned and validated dataset
 │
-├── Step2_SQL/
+├── Step2_SQL
 │   └── Final SQL scripts
 │
-├── Step3_PowerBI/
+├── Step3_PowerBI
 │   └── Dashboard screenshots
 │
-└── Step4_AI_Analysis/
+└── Step4_AI_Analysis
     └── Final Python script for customer segmentation
