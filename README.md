@@ -1,7 +1,7 @@
 # AI-Assisted E-Commerce Sales & Customer Intelligence
 
 ## Project Overview
-This project analyses the Brazilian E-Commerce Public Dataset by Olist to understand sales performance and customer behaviour. It combines SQL-based business analysis, customer segmentation using machine learning, and Power BI visualisation to derive insights from e-commerce data.
+This project analyses the Brazilian E-Commerce Public Dataset by Olist to understand sales performance and customer behaviour. It combines SQL-based business analysis, customer segmentation using K-means, and Power BI visualisation to derive insights from e-commerce data.
 
 ## Objectives
 - Analyse sales performance and order trends.
@@ -12,7 +12,6 @@ This project analyses the Brazilian E-Commerce Public Dataset by Olist to unders
 ## Tools & Technologies
 - **MySQL:** Data validation, querying, joins, and business analysis.
 - **Python:** Customer-level data preparation and analysis.
-- **Scikit-learn:** K-Means clustering for customer segmentation.
 - **Power BI:** Dashboard development and data visualisation.
 - **DAX:** Dynamic measures and KPI calculations.
 
@@ -48,9 +47,6 @@ Dashboard screenshots are available in this repository.
 The project uses the **Brazilian E-Commerce Public Dataset by Olist**.
 
 [View Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-
-## Repository Contents
-This repository contains the project overview and Power BI dashboard screenshots. The dataset, SQL scripts, and Python implementation are not included.
 
 ## Conclusion
 This project demonstrates an end-to-end analytical workflow, combining SQL, Python, machine learning, and Power BI to explore e-commerce sales performance and customer behaviour.
